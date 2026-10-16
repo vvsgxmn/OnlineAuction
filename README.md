@@ -53,26 +53,26 @@
 <!-- screenshots-start -->
 ## 系统截图
 
-<img src="https://raw.githubusercontent.com/vvsgxmn/OnlineAuction/main/screenshots/%E7%99%BB%E5%BD%95%E9%A1%B5%E9%9D%A2.png" alt="登录页面" width="600" />
+<img src="https://fanhua-yingcai.oss-cn-shanghai.aliyuncs.com/AutoUpload/screenshots/onlineauction/%E7%99%BB%E5%BD%95%E9%A1%B5%E9%9D%A2.png" alt="登录页面" width="600" />
 
-<img src="https://raw.githubusercontent.com/vvsgxmn/OnlineAuction/main/screenshots/%E7%94%A8%E6%88%B7%E9%A6%96%E9%A1%B5.png" alt="用户首页" width="600" />
+<img src="https://fanhua-yingcai.oss-cn-shanghai.aliyuncs.com/AutoUpload/screenshots/onlineauction/%E7%94%A8%E6%88%B7%E9%A6%96%E9%A1%B5.png" alt="用户首页" width="600" />
 
-<img src="https://raw.githubusercontent.com/vvsgxmn/OnlineAuction/main/screenshots/%E6%8B%8D%E5%93%81%E5%A4%A7%E5%8E%85.png" alt="拍品大厅" width="600" />
+<img src="https://fanhua-yingcai.oss-cn-shanghai.aliyuncs.com/AutoUpload/screenshots/onlineauction/%E6%8B%8D%E5%93%81%E5%A4%A7%E5%8E%85.png" alt="拍品大厅" width="600" />
 
-<img src="https://raw.githubusercontent.com/vvsgxmn/OnlineAuction/main/screenshots/%E6%8B%8D%E5%93%81%E8%AF%A6%E6%83%85.png" alt="拍品详情" width="600" />
+<img src="https://fanhua-yingcai.oss-cn-shanghai.aliyuncs.com/AutoUpload/screenshots/onlineauction/%E6%8B%8D%E5%93%81%E8%AF%A6%E6%83%85.png" alt="拍品详情" width="600" />
 
-<img src="https://raw.githubusercontent.com/vvsgxmn/OnlineAuction/main/screenshots/%E6%8F%90%E4%BA%A4%E9%80%81%E6%8B%8D%E9%89%B4%E5%AE%9A.png" alt="提交送拍鉴定" width="600" />
+<img src="https://fanhua-yingcai.oss-cn-shanghai.aliyuncs.com/AutoUpload/screenshots/onlineauction/%E6%8F%90%E4%BA%A4%E9%80%81%E6%8B%8D%E9%89%B4%E5%AE%9A.png" alt="提交送拍鉴定" width="600" />
 
-<img src="https://raw.githubusercontent.com/vvsgxmn/OnlineAuction/main/screenshots/%E6%94%B6%E8%97%8F%E5%AE%B6%E9%80%81%E6%8B%8D%E6%A1%A3%E6%A1%88.png" alt="收藏家送拍档案" width="600" />
+<img src="https://fanhua-yingcai.oss-cn-shanghai.aliyuncs.com/AutoUpload/screenshots/onlineauction/%E6%94%B6%E8%97%8F%E5%AE%B6%E9%80%81%E6%8B%8D%E6%A1%A3%E6%A1%88.png" alt="收藏家送拍档案" width="600" />
 
-<img src="https://raw.githubusercontent.com/vvsgxmn/OnlineAuction/main/screenshots/%E7%AE%A1%E7%90%86%E5%91%98%E4%BB%AA%E8%A1%A8%E7%9B%98.png" alt="管理员仪表盘" width="600" />
+<img src="https://fanhua-yingcai.oss-cn-shanghai.aliyuncs.com/AutoUpload/screenshots/onlineauction/%E7%AE%A1%E7%90%86%E5%91%98%E4%BB%AA%E8%A1%A8%E7%9B%98.png" alt="管理员仪表盘" width="600" />
 
-<img src="https://raw.githubusercontent.com/vvsgxmn/OnlineAuction/main/screenshots/%E6%8B%8D%E5%93%81%E7%AE%A1%E7%90%86.png" alt="拍品管理" width="600" />
+<img src="https://fanhua-yingcai.oss-cn-shanghai.aliyuncs.com/AutoUpload/screenshots/onlineauction/%E6%8B%8D%E5%93%81%E7%AE%A1%E7%90%86.png" alt="拍品管理" width="600" />
 
-<img src="https://raw.githubusercontent.com/vvsgxmn/OnlineAuction/main/screenshots/%E8%AE%BA%E6%96%87%E5%9B%BE1.png" alt="论文图1" width="600" />
+<img src="https://fanhua-yingcai.oss-cn-shanghai.aliyuncs.com/AutoUpload/screenshots/onlineauction/%E8%AE%BA%E6%96%87%E5%9B%BE1.png" alt="论文图1" width="600" />
 
-<img src="https://raw.githubusercontent.com/vvsgxmn/OnlineAuction/main/screenshots/%E8%AE%BA%E6%96%87%E5%9B%BE2.png" alt="论文图2" width="600" />
+<img src="https://fanhua-yingcai.oss-cn-shanghai.aliyuncs.com/AutoUpload/screenshots/onlineauction/%E8%AE%BA%E6%96%87%E5%9B%BE2.png" alt="论文图2" width="600" />
 
-<img src="https://raw.githubusercontent.com/vvsgxmn/OnlineAuction/main/screenshots/UML%E5%9B%BE%E5%88%97%E8%A1%A8.png" alt="UML图列表" width="600" />
+<img src="https://fanhua-yingcai.oss-cn-shanghai.aliyuncs.com/AutoUpload/screenshots/onlineauction/UML%E5%9B%BE%E5%88%97%E8%A1%A8.png" alt="UML图列表" width="600" />
 
 <!-- screenshots-end -->
